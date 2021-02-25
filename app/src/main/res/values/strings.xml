@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Battle Books</string>
+    <string name="book_image">book image</string>
+    <string name="title">Title</string>
+    <string name="author_name">Author Name</string>
+    <string name="author">Author :</string>
+    <string name="search">Search</string>
+    <string name="no_internet">No Internet</string>
+    <string name="refresh">Refresh again</string>
+    <string name="search_label">search label</string>
+</resources>
